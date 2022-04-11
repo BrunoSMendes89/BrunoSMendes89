@@ -2,7 +2,7 @@
 - 👀 I’m interested in improve my skills on development.
 - 🌱 I’m currently learning C#, JAVA, Infraestructure and Cloud Computing, DevOps and etc. on my MBA post-graduation.
 - 💞️ I’m looking for a chance to learn more and work as developer. Now I'm a system analyst.
-- 📫 You can contact-me on my LinkedIn.
+- 📫 You can contact-me on my LinkedIn. https://www.linkedin.com/in/bruno-mendes-15246894/
 
 <!---
 BrunoSMendes89/BrunoSMendes89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
