@@ -1,8 +1,7 @@
 ## Hi, I’m Bruno Mendes
 - 👀 I’m interested in improve my skills on development.
-- 🌱 I’m backend Java Developer but I know something about frontend as HTML and CSS, for example.
-- 💞️ I’m looking for a chance to learn more.
-- 📫 You can contact-me on my LinkedIn. 
+- 🌱 I’m backend Java Developer, however I know something about frontend as HTML and CSS, for example.
+- 📫 You can contact me on my LinkedIn. 
 
 <div>
   <a href="https://github.com/BrunoSMendes89">
@@ -31,9 +30,9 @@
   
   <a href = "mailto:brunosmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-mendes-15246894/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <!---
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ --->
 </div>
 
 
