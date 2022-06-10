@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bruno Mendes
 - 👀 I’m interested in improve my skills on development.
-- 🌱 I’m currently learning C#, JAVA, Infraestructure and Cloud Computing, DevOps and etc. on my MBA post-graduation.
-- 💞️ I’m looking for a chance to learn more and work as developer. Now I'm a system analyst.
+- 🌱 I’m Java Developer.
+- 💞️ I’m looking for a chance to learn more.
 - 📫 You can contact-me on my LinkedIn. https://www.linkedin.com/in/bruno-mendes-15246894/
 
 <!---
