@@ -1,6 +1,6 @@
 ## Hi, I’m Bruno Mendes
 - 👀 I’m interested in improve my skills on development.
-- 🌱 I’m backend Java and C# Developer, however I know something about frontend as HTML and CSS, for example.
+- 🌱 I’m backend Java and C# Developer, however I know something about frontend as JavaScript, TypeScript, HTML and CSS, for example.
 - 📫 You can contact me on my LinkedIn. 
 
 <div>
